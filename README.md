@@ -44,8 +44,8 @@ Intermediate (MPC) | Sri Chaitanya Jr College, Kurnool (2021-2023)
 
 ## 📫 Let’s Connect  
 I’m always open to connect, collaborate and learn from others.  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)  
-- Email: **your.email@domain.com**  
+- LinkedIn: [click here](www.linkedin.com/in/vighnesh-prasad-3ba56a2a5)  
+- Email: **vighneshprasad12@gmail.com**  
 - GitHub: [@vighnesh2005](https://github.com/vighnesh2005) — Feel free to explore my repos, drop a ⭐ or reach out for a chat!
 
 ---
