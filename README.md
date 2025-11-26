@@ -1,62 +1,73 @@
-# Hi, I’m **Vighnesh Prasad** 👋  
-**MERN Stack & Real-Time Systems Developer | AI-Driven Learning Platforms**  
+# 👋 Hey! I'm **Vighnesh Prasad**
+
+### MERN Stack • Real-Time Systems • AI-Based Learning Platforms  
 📍 Kurnool, Andhra Pradesh, India  
-🔗 [GitHub](https://github.com/vighnesh2005) · [LinkedIn](https://www.linkedin.com/in/vighnesh-prasad-3ba56a2a5/) · vighneshprasad12@gmail.com  
+🔗 [GitHub](https://github.com/vighnesh2005) · [LinkedIn](https://www.linkedin.com/in/vighnesh-prasad-3ba56a2a5/)  
+📧 **vighneshprasad12@gmail.com**
 
 ---
 
-## 🔍 About Me  
-A passionate full-stack developer currently pursuing **B.Tech CSE (2023–27) @ IIITDM Kurnool**.  
-I focus on building scalable web applications, real-time communication systems and AI-powered learning tools.  
-Love working across the stack — whether it's **WebRTC signalling**, **Redis-backed real-time logic** or **vector embeddings for RAG systems**.
+## 🧑‍💻 About Me
+
+I'm **Vighnesh**, a B.Tech CSE student at IIITDM Kurnool (2023–2027), passionate about full-stack development,  
+building real-time applications & AI-powered study automation tools.
+
+I love working across the stack — from **backend architecture + Redis streaming**,  
+to **real-time communication using WebRTC & mediasoup** and **LLM + RAG workflows** for learning enhancement.
 
 ---
 
-## 🧰 Tech Stack  
+## 🌐 Socials
 
-### ⚡ Frontend  
-![React](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind)
-
-### 🏗 Backend & Real-time  
-![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,redis)
-<br>
-**WebRTC · Socket.IO · mediasoup · Supabase**
-
-### 🔧 Tools  
-![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vighnesh-prasad-3ba56a2a5/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vighnesh2005)  
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vighneshprasad12@gmail.com)
 
 ---
 
-## 🚀 Featured Projects  
+## 🔥 Tech Stack
+
+### Languages  
+`C` `C++` `JavaScript`
+
+### Frontend  
+`React` `Next.js (App Router)` `Redux Toolkit` `Tailwind CSS`
+
+### Backend / Realtime  
+`Node.js` `Express.js` `MongoDB` `Supabase` `Redis` `WebRTC` `Socket.IO` `mediasoup`
+
+### AI / LLM / RAG  
+`LangChain` `Embeddings` `Vector DBs` `Gemini API`
+
+### Tools  
+`Git` `GitHub` `Postman` `Docker` `VS Code`
+
+---
+
+## 🚀 Featured Projects
 
 | Project | Description |
-|---|---|
-| 🔹 **[Online-File-Management-System](https://github.com/vighnesh2005/Online-file-management-system.git)** | Role-based file hierarchy, secure upload/download, full-stack build |
-| 🔹 **[CodeBuddy](https://github.com/vighnesh2005/Codebuddy.git)** | Online judge platform with Monaco editor + Judge0 API |
-| 🔹 **[RAG Study Helper AI](https://github.com/vighnesh2005/RAG_study_helper_ai.git)** | PDF-QnA, flashcards, mock tests — LangChain + Gemini + embeddings |
-| 🔹 **[Gathr](https://github.com/PranavNagaraji/Gathr.git)** | Event management + real-time collaboration |
-| 🔹 **[Portfolio](https://github.com/vighnesh2005/porfolio.git)** | Personal site showcasing projects, skills & blogs |
+|--------|-------------|
+| 🔹 **[Online-File-Management-System](https://github.com/vighnesh2005/Online-file-management-system.git)** | File/folder management with RBAC, uploads/downloads system |
+| 🔹 **[CodeBuddy](https://github.com/vighnesh2005/Codebuddy.git)** | Online judge with Monaco Editor + Judge0 API |
+| 🔹 **[RAG Study Helper AI](https://github.com/vighnesh2005/RAG_study_helper_ai.git)** | PDF → QnA | Flashcards | Mock Exams using LangChain + Gemini |
+| 🔹 **[Gathr](https://github.com/PranavNagaraji/Gathr.git)** | Real-time collaboration & event hosting platform |
+| 🔹 **[Portfolio](https://github.com/vighnesh2005/porfolio.git)** | My personal website portfolio |
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vighnesh2005&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=vighnesh2005&theme=radical" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vighnesh2005&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vighnesh2005&layout=compact&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vighnesh2005&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vighnesh2005&layout=compact&theme=tokyonight"/>
 </p>
 
----
-
-## 📫 Connect With Me  
-📧 **vighneshprasad12@gmail.com**  
-🔗 **[LinkedIn](https://www.linkedin.com/in/vighnesh-prasad-3ba56a2a5/)**  
-🐙 **[@vighnesh2005](https://github.com/vighnesh2005)**  
 
 ---
 
-> *“Let’s build something meaningful together.”* 🚀
+### ⭐ _“Let’s build something meaningful together.”_  
