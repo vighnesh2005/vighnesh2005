@@ -2,7 +2,7 @@
 
 I'm an undergraduate **B.Tech CSE @ IIITDM Kurnool (2023–2027)**, passionate about full-stack development,  
 real-time communication systems & AI-driven learning tools.  
-Currently exploring WebRTC + mediasoup scaling, Redis-based signalling, and LLM-powered study systems.
+Currently exploring Redis-based signalling,frontend Design and LLM-powered study systems.
 
 ---
 
@@ -66,12 +66,11 @@ Currently exploring WebRTC + mediasoup scaling, Redis-based signalling, and LLM-
 
 ## 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vighnesh2005&theme=tokyonight" height="170"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vighnesh2005&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vighnesh2005&layout=compact&theme=tokyonight" height="170"/>
+<p align="left">
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=vighnesh2005&theme=tokyonight" height="160">
+  <br/><br/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=vighnesh2005&show_icons=true&theme=tokyonight" height="160">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vighnesh2005&layout=compact&theme=tokyonight" height="160">
 </p>
 
 ---
