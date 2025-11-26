@@ -1,53 +1,62 @@
 # Hi, I’m **Vighnesh Prasad** 👋  
 **MERN Stack & Real-Time Systems Developer | AI-Driven Learning Platforms**  
 📍 Kurnool, Andhra Pradesh, India  
-🔗 [GitHub](https://github.com/vighnesh2005) · [LinkedIn](https://www.linkedin.com/in/your-linkedin) · your.email@domain.com  
+🔗 [GitHub](https://github.com/vighnesh2005) · [LinkedIn](https://www.linkedin.com/in/vighnesh-prasad-3ba56a2a5/) · vighneshprasad12@gmail.com  
 
 ---
 
 ## 🔍 About Me  
-A passionate full-stack developer currently pursuing B.Tech in CSE at IIITDM Kurnool (2023-27). I thrive on building scalable web applications, real-time systems and AI-powered learning platforms with a clean architecture, intuitive UX and robust backend.  
-I enjoy solving complex problems across the stack — from WebRTC signalling to vector embeddings — and continuously learning new tools and best practices.
+A passionate full-stack developer currently pursuing **B.Tech CSE (2023–27) @ IIITDM Kurnool**.  
+I focus on building scalable web applications, real-time communication systems and AI-powered learning tools.  
+Love working across the stack — whether it's **WebRTC signalling**, **Redis-backed real-time logic** or **vector embeddings for RAG systems**.
 
 ---
 
 ## 🧰 Tech Stack  
-**Frontend:** React · Next.js (App Router) · Redux Toolkit · Tailwind CSS  
-**Backend / Databases / Real-Time:** Node.js · Express · MongoDB · Supabase · Redis · WebRTC · Socket.IO · mediasoup  
-**Tools & DevOps:** Git · GitHub · VS Code · Postman · Docker · CI/CD fundamentals  
+
+### ⚡ Frontend  
+![React](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind)
+
+### 🏗 Backend & Real-time  
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,redis)
+<br>
+**WebRTC · Socket.IO · mediasoup · Supabase**
+
+### 🔧 Tools  
+![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux)
 
 ---
 
 ## 🚀 Featured Projects  
-Here are some of my key repositories — click the project name to explore the code, docs and (where applicable) live demo.  
-- **[Online-File-Management-System](https://github.com/vighnesh2005/Online-file-management-system.git)** – A full-stack file management web application. Role-based access, folder structure, secure uploads/downloads and intuitive UI.  
-- **[CodeBuddy](https://github.com/vighnesh2005/Codebuddy.git)** – An online judge / code practice platform built with Next.js, MongoDB, Monaco Editor & Judge0 API. Users can solve algorithmic problems in-browser and receive instant feedback.  
-- **[RAG Study Helper AI](https://github.com/vighnesh2005/RAG_study_helper_ai.git)** – AI-powered learning assistant: upload your PDFs of notes, ask questions, generate flashcards, take mock exams — all built with Node.js, Express, LangChain & Google Gemini.  
-- **[Gathr](https://github.com/PranavNagaraji/Gathr.git)** – Collaborative team project (with Pranav Nagaraji) for event and social coordination — full-stack implementation, real-time updates, user profiles and event management.  
-- **[Portfolio](https://github.com/vighnesh2005/porfolio.git)** – My personal portfolio website built with Next.js, showcasing my frontend skills, projects, contact details and blog integrations.
+
+| Project | Description |
+|---|---|
+| 🔹 **[Online-File-Management-System](https://github.com/vighnesh2005/Online-file-management-system.git)** | Role-based file hierarchy, secure upload/download, full-stack build |
+| 🔹 **[CodeBuddy](https://github.com/vighnesh2005/Codebuddy.git)** | Online judge platform with Monaco editor + Judge0 API |
+| 🔹 **[RAG Study Helper AI](https://github.com/vighnesh2005/RAG_study_helper_ai.git)** | PDF-QnA, flashcards, mock tests — LangChain + Gemini + embeddings |
+| 🔹 **[Gathr](https://github.com/PranavNagaraji/Gathr.git)** | Event management + real-time collaboration |
+| 🔹 **[Portfolio](https://github.com/vighnesh2005/porfolio.git)** | Personal site showcasing projects, skills & blogs |
 
 ---
 
-## 🎓 Education  
-**B.Tech in Computer Science & Engineering** | IIITDM Kurnool (2023-2027)  
-Intermediate (MPC) | Sri Chaitanya Jr College, Kurnool (2021-2023)  
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vighnesh2005&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=vighnesh2005&theme=radical" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vighnesh2005&layout=compact&theme=radical" />
+</p>
 
 ---
 
-## 💡 Highlights & Interests  
-- Solved 500+ problems in data-structures & algorithms: trees, graphs, DP, recursion  
-- Participated in 20+ coding contests on LeetCode, Codeforces, CodeChef  
-- Currently exploring scaling video-meeting systems (mediasoup) and embedding LLMs for interactive learning experiences  
-- Open to remote full-stack internship roles, collaborative open-source contributions and building meaningful educational tools  
+## 📫 Connect With Me  
+📧 **vighneshprasad12@gmail.com**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/vighnesh-prasad-3ba56a2a5/)**  
+🐙 **[@vighnesh2005](https://github.com/vighnesh2005)**  
 
 ---
 
-## 📫 Let’s Connect  
-I’m always open to connect, collaborate and learn from others.  
-- LinkedIn:([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/vighnesh-prasad-3ba56a2a5/))    
-- Email: **vighneshprasad12@gmail.com**  
-- GitHub: [@vighnesh2005](https://github.com/vighnesh2005) — Feel free to explore my repos, drop a ⭐ or reach out for a chat!
-
----
-
-> *“Let’s build something meaningful together.”* 🚀  
+> *“Let’s build something meaningful together.”* 🚀
