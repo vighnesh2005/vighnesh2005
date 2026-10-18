@@ -1,110 +1,182 @@
-# Hey, I'm Vighnesh Prasad
+<!-- Animated header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C9FF&height=200&section=header&text=Vighnesh%20Prasad&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=55&descSize=18" width="100%" alt="Vighnesh Prasad animated header" />
+</p>
 
-**Full-Stack Developer · AI Engineer · CSE @ IIITDM Kurnool**
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=00C9FF&center=true&vCenter=true&width=650&lines=Building+things+that+actually+work.;Turning+ideas+into+full-stack+applications.;Exploring+RAG%2C+LLMs%2C+and+intelligent+systems.;Debugging+is+part+of+the+creative+process." alt="Animated introduction" />
+  </a>
+</p>
 
-I build end-to-end applications, from backend systems and databases to AI-powered products. I enjoy solving engineering problems, experimenting with retrieval systems, and turning ideas into useful software.
+<p align="center">
+  <a href="https://www.linkedin.com/in/vighnesh-prasad-3ba56a2a5/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://github.com/vighnesh2005"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="mailto:vighneshprasad12@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-Currently exploring **RAG optimization, LLM applications, real-time systems, and graph neural networks**.
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vighnesh-prasad-3ba56a2a5/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/vighnesh2005)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vighneshprasad12@gmail.com)
+## `$ whoami`
+
+```python
+class Vighnesh:
+    education = "CSE @ IIITDM Kurnool (2023–2027)"
+    roles = ["Full-Stack Developer", "AI Engineer"]
+    interests = [
+        "RAG & LLM applications",
+        "Backend systems & real-time architecture",
+        "Graph Neural Networks",
+        "Competitive programming"
+    ]
+    currently = "Building, learning, and experimenting"
+
+    def motto(self):
+        return "Understand the problem. Build the solution."
+```
+
+I enjoy engineering complete systems — from API design and database architecture to responsive interfaces and AI-powered workflows.
+
+Currently exploring retrieval optimization, intelligent study assistants, real-time applications, and graph-based molecular prediction.
+
+<details>
+<summary><b>A few things about how I work</b></summary>
+
+- I like understanding how systems work under the hood.
+- I care about measurable improvements, not just adding technologies to a project.
+- I enjoy turning complex workflows into practical software.
+- I believe good engineering includes testing, documentation, and maintainability.
+
+</details>
 
 ---
 
 ## Experience
 
-### Technology Intern — Viksit Management Consultancy Pvt. Ltd.
-**May 2026 – July 2026 · Kurnool, India**
+### Technology Intern · Viksit Management Consultancy Pvt. Ltd.
+**May 16 – July 12, 2026 · Kurnool, India**
 
 Contributed to internal software tools supporting business operations and client workflows.
 
-- Developed and contributed to web and desktop applications for document processing, financial workflows, client onboarding, and internal operations.
-- Worked with technologies including **Next.js, React, Python, Supabase, and the Gemini API**.
-- Contributed to tools including a PDF editor, financial health assessment tool, financial report builder, client file system, and bank statement classifier.
-- Worked on translating business requirements into practical software solutions.
+- Worked on desktop and web applications involving document processing, financial workflows, and client operations.
+- Used technologies including **Next.js, React, Python, Supabase, and Gemini API**.
+- Contributed to tools such as a PDF editor, financial assessment platform, financial report builder, client onboarding suite, and document management system.
 
 ---
 
 ## Tech Stack
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,nextjs,redux,tailwind,nodejs,express,fastapi,postgres,mongodb,supabase,redis,docker,git,github,postman,vercel&perline=10" alt="Technology stack icons"/>
+</p>
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss)
-
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)
-
-### AI / RAG / LLM
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini)
-![Embeddings](https://img.shields.io/badge/Vector_Embeddings-6E44FF?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-5B4BDB?style=flat-square)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-RAG%20%7C%20LLMs%20%7C%20Embeddings-7657FF?style=flat-square" alt="AI technologies"/>
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Retrieval%20Systems-00A896?style=flat-square" alt="Engineering focus"/>
+</p>
 
 ---
 
-## Featured Projects
+## Projects Lab
+
+<p align="center">
+  <a href="https://github.com/vighnesh2005">
+    <img src="https://img.shields.io/badge/Explore-All%20Repositories-24292e?style=for-the-badge&logo=github" alt="Explore repositories"/>
+  </a>
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### RAG Study Helper AI
-An AI-powered learning assistant for PDFs and notes, with question answering, flashcards, exam generation, and answer evaluation.
 
-**Focus:** Embeddings, reranking, hierarchical retrieval, semantic caching, and retrieval optimization.
+An AI-powered study assistant for PDFs and notes, featuring Q&A, flashcards, exam generation, and answer evaluation.
 
-### Blood–Brain Barrier Permeability Prediction
-A research project investigating molecular graph learning and transporter-related information for predicting blood–brain barrier permeability.
+**Exploring:** Embeddings, reranking, hierarchical retrieval, semantic caching.
 
-**Focus:** Graph neural networks, scaffold-based evaluation, multi-task learning, and interpretability.
+</td>
+<td width="50%" valign="top">
+
+### BBB Permeability Prediction
+
+Research into molecular graph learning and transporter-related information for blood–brain barrier permeability prediction.
+
+**Exploring:** GNNs, scaffold splits, multi-task learning, interpretability.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### CodeBuddy
-A competitive programming platform featuring an online code editor, code execution integration, and contest-related functionality.
 
-**Focus:** Next.js, Monaco Editor, Judge0, Redis, and live rankings.
+A competitive programming platform with an online code editor, code execution integration, and contest functionality.
+
+**Stack:** Next.js, Monaco Editor, Judge0, Redis.
+
+</td>
+<td width="50%" valign="top">
 
 ### Online File Management System
-A cloud file-management application with access control, secure file sharing, usage analytics, and AI-powered summarization.
 
-**Focus:** FastAPI, SQLite, Next.js, and authentication.
+A cloud file-management application with role-based access, secure sharing, usage analytics, and AI summarization.
+
+**Stack:** FastAPI, SQLite, Next.js.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### Gathr
-A full-stack local commerce platform designed to connect users with local goods and services.
 
-**Focus:** Next.js, Node.js, Express, PostgreSQL, and authentication.
+A full-stack local commerce platform for connecting users with local goods and services.
+
+**Stack:** Next.js, Node.js, Express, PostgreSQL.
+
+</td>
+<td width="50%" valign="top">
+
+### Portfolio
+
+A personal website showcasing projects, development experience, and technical interests.
+
+**Stack:** Next.js and modern frontend tooling.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Analytics
+## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vighnesh2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vighnesh2005&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vighnesh2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vighnesh2005&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vighnesh2005&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vighnesh2005&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vighnesh2005&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile trophies"/>
 </p>
 
 ---
 
+## The Developer Loop
+
 <p align="center">
-  <i>Build thoughtfully. Learn continuously. Ship useful things.</i>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=65&section=footer&text=Think%20%E2%86%92%20Build%20%E2%86%92%20Break%20%E2%86%92%20Debug%20%E2%86%92%20Repeat&fontSize=17&fontColor=ffffff" width="100%" alt="Think, build, break, debug, repeat"/>
+</p>
+
+<p align="center">
+  <i>Thanks for stopping by. Have a project worth building? Let's talk.</i>
+</p>
+
+<p align="center">
+  <a href="mailto:vighneshprasad12@gmail.com">Get in touch</a>
 </p>
