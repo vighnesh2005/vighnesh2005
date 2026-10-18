@@ -1,9 +1,10 @@
-# 👋 Hey! I’m Vighnesh Prasad
+# 👋 Hey! I'm Vighnesh Prasad
 
-I’m a **B.Tech Computer Science undergraduate @ IIITDM Kurnool (2023–2027)** and a **full-stack developer** who enjoys building **end-to-end systems** — from backend APIs and databases to real-time features and user-facing interfaces.
+I'm a **B.Tech Computer Science undergraduate @ IIITDM Kurnool (2023–2027)** and a **Full-Stack Developer / AI Engineer** who enjoys building **end-to-end systems** — from backend APIs and databases to real-time applications and AI-powered tools.
 
-I’ve worked on **production-like projects** involving authentication, role-based access control, real-time communication, scalable APIs, and AI-powered learning tools.  
-Currently exploring **Redis-based signaling**, **real-time systems**, **frontend architecture**, and **LLM-powered study platforms**.
+I've worked on projects involving authentication, role-based access control, real-time communication, scalable APIs, and retrieval-augmented generation (RAG).
+
+Currently exploring **LLM-powered applications, retrieval optimization, real-time systems, frontend architecture, and applied machine learning**.
 
 ---
 
@@ -50,7 +51,7 @@ Currently exploring **Redis-based signaling**, **real-time systems**, **frontend
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-6E44FF?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-00FF88?style=for-the-badge&logoColor=000)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-00A67D?style=for-the-badge)
 
 ---
 
@@ -67,11 +68,12 @@ Currently exploring **Redis-based signaling**, **real-time systems**, **frontend
 
 | Project | Description |
 |--------|-------------|
-| 🔹 **Online File Management System** | Google Drive–like file system with RBAC, secure uploads, token-based sharing, usage analytics, and AI-powered summarization |
-| 🔹 **CodeBuddy** | Competitive coding platform using Monaco Editor + Judge0 with Redis-based caching and live contest ratings |
-| 🔹 **RAG Study Helper AI** | AI assistant for PDFs and notes with QnA, flashcards, exam generation, and answer review using embeddings + re-ranking |
-| 🔹 **Gathr** | Real-time collaboration and event platform with WebSockets and role-based permissions |
-| 🔹 **Portfolio** | Personal portfolio built with Next.js and modern frontend tooling |
+| **Online File Management System** | Google Drive-like file management system with role-based access control, secure uploads, token-based sharing, usage analytics, and AI-powered summarization |
+| **CodeBuddy** | Competitive programming platform featuring Monaco Editor, Judge0 integration, Redis-based caching, and live contest rankings |
+| **RAG Study Helper AI** | AI-powered study assistant for PDFs and notes with question answering, flashcard generation, exam creation, and answer evaluation using embeddings and reranking |
+| **Gathr** | Full-stack local commerce platform with authentication, role-based permissions, and backend APIs |
+| **Blood–Brain Barrier Prediction** | Research project exploring graph neural networks, transporter-related information, scaffold-based evaluation, and model interpretability |
+| **Portfolio** | Personal portfolio built with Next.js and modern frontend tooling |
 
 ---
 
@@ -86,5 +88,5 @@ Currently exploring **Redis-based signaling**, **real-time systems**, **frontend
 
 ---
 
-📩 **Mail:** *vighneshprasad12@gmail.com*  
-⭐ *Let’s build something meaningful.*
+**Mail:** *vighneshprasad12@gmail.com*  
+*Let's build something meaningful.*
